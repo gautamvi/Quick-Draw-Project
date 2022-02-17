@@ -1,0 +1,18 @@
+body{
+    background: linear-gradient(lightgreen,lime,darkgreen);
+}
+
+#score{
+    font-size: 25px;
+    margin-left: -900px;
+}
+
+#timer{
+    font-size: 25px;
+    float:right;
+    margin-right: 200px;
+}
+
+#drawn_sketch{
+    color: blue;
+}
